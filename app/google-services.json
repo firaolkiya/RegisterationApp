@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286976503606",
+    "project_id": "tryapp-15bbf",
+    "storage_bucket": "tryapp-15bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286976503606:android:9b042bf39b2b0ae2abcd97",
+        "android_client_info": {
+          "package_name": "com.example.atry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkd3mPk_hMZ45okQiAZX2hRdpgnDn08lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
